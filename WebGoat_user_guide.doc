@@ -56,7 +56,7 @@ These tools must be installed independent of the webgoat download.
 				  
 				  
 				  -----------------------------------------------
-				  Building the Eclipse project files (Developers)
+				  Building the Eclipse project files (Developers) and DevSecOps
 				  -----------------------------------------------
 				  
 				  > mvn eclipse:clean> mvn eclipse:eclipse
